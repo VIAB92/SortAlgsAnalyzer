@@ -1,0 +1,6 @@
+=================Information about Bubble Sort[base]=================
+Elapsed time: 69474 nanosec
+Memory used: 369296 bytes
+Memory total: 16318464 bytes
+Memory free: 15949168 bytes 
+Total swaps: 210

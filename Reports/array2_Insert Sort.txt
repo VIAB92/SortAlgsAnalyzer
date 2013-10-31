@@ -1,0 +1,6 @@
+=================Information about Insert Sort=================
+Elapsed time: 20389 nanosec
+Memory used: 304808 bytes
+Memory total: 16318464 bytes
+Memory free: 16013656 bytes 
+Total swaps: 8
